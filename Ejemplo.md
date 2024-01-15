@@ -14,3 +14,7 @@
 | --------- | --------- | --------- |
 | Contenido | Contenido | Contenido |
 ---
+```bash
+ls -lah
+cd directorio
+```
