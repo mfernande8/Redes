@@ -7,7 +7,7 @@
 -Hola, esto es una prueba de **texto** 
 
 
-![Alt text](qr-proyecto.jpg "QR Code")
+![Alt text](qr-proyecto.png "QR Code")
 
 
 | Columna 1 | Columna 2 | Columna 3 |
