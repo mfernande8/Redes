@@ -1,7 +1,12 @@
 # Redes
-#Ejemplo.md
-##Ejemplo.md
--Hola, esto es una prueba de **texto**
+
+# Ejemplo.md
+
+## Ejemplo.md
+
+-Hola, esto es una prueba de **texto** 
+
+
 ![Alt text](qr-proyecto.jpg "QR Code")
 
 
