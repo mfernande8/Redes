@@ -4,4 +4,4 @@
   
 -[Mapa Físico](https://docs.google.com/document/d/15foyA-O8vE8QAkD0zaySOfu7-36esGZFMS0OVMRVHig/edit)
 
--[Mapa Lógico](https://app.diagrams.net/#G1gjxm-tGlbFccHGtebyFmscRIa0tSwb1W)
+-[Mapa Lógico](https://drive.google.com/file/d/15uWTMdGl9PsyWXobYyVWDSNMMge6Fmmb/view?usp=drive_link)
